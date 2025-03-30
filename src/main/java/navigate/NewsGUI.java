@@ -3,6 +3,9 @@ package navigate;
 import javax.swing.*;
 import java.awt.*;
 import java.util.List;
+import java.net.URL;
+import java.util.ArrayList;
+import java.util.List;
 
 public class NewsGUI extends JPanel {
     public NewsGUI(JFrame parent) {
